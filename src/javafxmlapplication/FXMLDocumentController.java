@@ -40,5 +40,5 @@ public class FXMLDocumentController implements Initializable {
         // TODO
     } 
    
-    
+    public void agarramenabo(){}
 }
